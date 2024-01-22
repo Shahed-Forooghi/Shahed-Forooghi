@@ -21,7 +21,7 @@ Hi There 👋  , I'm Shahed , a front end developer making website , I enjoy wor
 - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - ![Tailwind](https://img.shields.io/badge/-tailwind-333333?style=flat)
 
-## contact me 
+## 🤙🏽 contact me 
 
 [![Telegram](https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shahed_forooghi)
 

@@ -3,7 +3,7 @@
 
 ### 🚀 About Me
 
-Hi There 👋  , I'm Shahed , a front end developer making website , I enjoy working with: 
+I'm a front end developer making website , I enjoy working with: 
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)

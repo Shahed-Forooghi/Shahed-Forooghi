@@ -9,18 +9,14 @@ I'm a front end developer making website , I enjoy working with:
 - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 -  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 -  ![Tailwind](https://img.shields.io/badge/-tailwind-333333?style=flat)
+- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
 
 
 ## 🛠 Tools
 
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 - ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
-
-- ![VsCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
- 
-### 🧠 I'm currently learning
-
-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ## 🤙🏽 contact me 
 
